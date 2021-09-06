@@ -1,8 +1,11 @@
 ![enter image description here](https://www.clicdata.com/wp-content/uploads/2021/01/microsoft-azure-blob-storage-logo.com_.png)
 # Send a file in a blob in an Azure storage account with a PHP API without SDK and libraries
 > **Azure SDK :** ⛔ (*Not needed)*
+> 
 > **PHP Composer :** ⛔ *(Not needed)*
+> 
 > **Every type of file :** ✔️
+> 
 > **HTML/CSS Interface :** ✔️
 > 
 ![enter image description here](https://image.prntscr.com/image/flwtwY0rQeeqNNbpBZ_w1Q.png)
